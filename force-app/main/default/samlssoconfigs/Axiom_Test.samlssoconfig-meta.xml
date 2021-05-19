@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <errorUrl>https://sandbox-honda-jit-poc-stone-developer-edition.cs18.force.com/ErrorPage</errorUrl>
+    <executionUserId>0051100000Azw5e</executionUserId>
+    <identityLocation>SubjectNameId</identityLocation>
+    <identityMapping>FederationId</identityMapping>
+    <issuer>https://velocity-ruby-25163-dev-ed.lightning.force.com</issuer>
+    <loginUrl>https://axiomsso.herokuapp.com</loginUrl>
+    <logoutUrl>https://sandbox-honda-jit-poc-stone-developer-edition.cs18.force.com/LogoutPage</logoutUrl>
+    <name>Axiom Test</name>
+    <oauthTokenEndpoint>https://velocity-ruby-25163-dev-ed.cs18.my.salesforce.com/services/oauth2/token</oauthTokenEndpoint>
+    <redirectBinding>false</redirectBinding>
+    <requestSignatureMethod>1</requestSignatureMethod>
+    <requestSigningCertId>0P111000002NFGU</requestSigningCertId>
+    <salesforceLoginUrl>https://velocity-ruby-25163-dev-ed.cs18.my.salesforce.com</salesforceLoginUrl>
+    <samlEntityId>https://saml.salesforce.com</samlEntityId>
+    <samlJitHandlerId>01p1100000DnSdp</samlJitHandlerId>
+    <samlVersion>SAML2_0</samlVersion>
+    <useConfigRequestMethod>true</useConfigRequestMethod>
+    <userProvisioning>true</userProvisioning>
+    <validationCert>MIID0zCCA5GgAwIBAgIEF/uFITALBgcqhkjOOAQDBQAwgboxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzESMBAGA1UEChMJQXhpb20gU1NPMVEwTwYDVQQLE0hGT1IgREVNT05TVFJBVElPTiBQVVJQT1NFUyBPTkxZLiBETyBOT1QgVVNFIEZPUiBQUk9EVUNUSU9OIEVOVklST05NRU5UUy4xHzAdBgNVBAMTFkF4aW9tIERlbW8gQ2VydGlmaWNhdGUwHhcNMTQwNjIwMDQzMDI3WhcNNDExMTA1MDQzMDI3WjCBujELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRIwEAYDVQQKEwlBeGlvbSBTU08xUTBPBgNVBAsTSEZPUiBERU1PTlNUUkFUSU9OIFBVUlBPU0VTIE9OTFkuIERPIE5PVCBVU0UgRk9SIFBST0RVQ1RJT04gRU5WSVJPTk1FTlRTLjEfMB0GA1UEAxMWQXhpb20gRGVtbyBDZXJ0aWZpY2F0ZTCCAbgwggEsBgcqhkjOOAQBMIIBHwKBgQD9f1OBHXUSKVLfSpwu7OTn9hG3UjzvRADDHj+AtlEmaUVdQCJR+1k9jVj6v8X1ujD2y5tVbNeBO4AdNG/yZmC3a5lQpaSfn+gEexAiwk+7qdf+t8Yb+DtX58aophUPBPuD9tPFHsMCNVQTWhaRMvZ1864rYdcq7/IiAxmd0UgBxwIVAJdgUI8VIwvMspK5gqLrhAvwWBz1AoGBAPfhoIXWmz3ey7yrXDa4V7l5lK+7+jrqgvlXTAs9B4JnUVlXjrrUWU/mcQcQgYC0SRZxI+hMKBYTt88JMozIpuE8FnqLVHyNKOCjrh4rs6Z1kW6jfwv6ITVi8ftiegEkO8yk8b6oUZCJqIPf4VrlnwaSi2ZegHtVJWQBTDv+z0kqA4GFAAKBgQCXr1mp4UvByY6dGbDOyq3wMs6O7MCxmEkU2x32AkEp6s7Xfiy3MYwKwZQ4sL4BmQYzZ7QOXPP8dKgrKDQKLk9tXWOgvIoOCiNAdQDYlRm2sYgrI2SUcyM1bKDqLwDD8Z5OoLeuQAtgMfAq/f1C6nREWrQudPxOwaoNdHkYcR+066MhMB8wHQYDVR0OBBYEFE2JAc97wfHK5b42nKbANn4SMcqcMAsGByqGSM44BAMFAAMvADAsAhR+Cjvp8UwNgKHfx2PWJoRi0/1q8AIUNhTXWlGzJ3SdBlgRsdFgKyFtcxE=</validationCert>
+</SamlSsoConfig>
